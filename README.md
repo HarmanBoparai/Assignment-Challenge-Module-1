@@ -1,2 +1,2 @@
 # Assignment-Challenge-Module-1
-This website is easily accessible  
+This website provides better accessibility and  is optimized for search engines.
